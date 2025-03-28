@@ -30,13 +30,13 @@ const HomePage = () => {
       icon: <ChartBarIcon className="w-10 h-10 text-green-500" />, 
       title: "Investment Guidance", 
       description: "Discover tailored investment opportunities.",
-      link: '/investments' 
+      link: '/investment-guidence' 
     },
     { 
       icon: <LightBulbIcon className="w-10 h-10 text-yellow-500" />, 
       title: "Financial Literacy", 
       description: "Understand financial concepts through interactive AI.",
-      link: '/learning' 
+      link: '/financial-literacy' 
     },
     { 
       icon: <ShieldCheckIcon className="w-10 h-10 text-purple-500" />, 
