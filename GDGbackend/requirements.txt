@@ -1,0 +1,19 @@
+# requirements.txt for Flask Backend
+flask
+flask-cors
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-chroma
+chromadb
+sentence-transformers
+tiktoken
+PyMuPDF
+google-api-core
+google-auth
+google-generativeai
+gunicorn
+numpy
+pymongo

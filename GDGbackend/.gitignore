@@ -1,0 +1,5 @@
+.env
+*.log
+__pycache__/
+chat_history.json
+node_modules
