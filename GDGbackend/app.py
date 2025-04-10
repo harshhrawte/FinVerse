@@ -221,7 +221,9 @@ def get_dynamic_quiz():
         logger.error(f"Quiz Generation Error: {str(e)}")
         return jsonify({"error": "Failed to generate quiz"}), 500
 
-
+@app.route('/')
+def home():
+    return "Your application is running! 🚀"  # Or render a template
 
 if __name__ == "__main__":
     port = int(os.getenv("PORT", 5000))
