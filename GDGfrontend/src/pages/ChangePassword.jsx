@@ -23,10 +23,9 @@ function App() {
       return;
     }
 
+    const API_URL = `${import.meta.env.VITE_CHATBOT_API_URL}/api/v1`;
     try {
-      const response = await fetch(
-        "http://localhost:3000/api/v1/auth/change-password",
-        {
+      const response = await fetch(`${API_URL}/auth/change-password`, {
           method: "POST",
           headers: {
             "Content-Type": "application/json",

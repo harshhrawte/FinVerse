@@ -22,7 +22,7 @@ function VerifyEmailPage() {
     console.log("Sending:", { email, verificationCode }); // Log sent data
     try {
       await axios.post(
-        "http://localhost:3000/api/v1/auth/verify-email",
+        `${import.meta.env.VITE_CHATBOT_API_URL}/api/v1/auth/verify-email`,
         { email: email.toLowerCase(), verificationCode: verificationCode.trim() }
       );
       toast.success("Email verified successfully!");

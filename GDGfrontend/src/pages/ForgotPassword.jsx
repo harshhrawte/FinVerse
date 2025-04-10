@@ -28,12 +28,12 @@ function ForgotPassword() {
     return `${minutes}:${remainingSeconds.toString().padStart(2, "0")}`;
   };
 
+  const API_BASE = `${import.meta.env.VITE_CHATBOT_API_URL}/api/v1/auth`;
+
   const handleSendOTP = async (e) => {
     e.preventDefault();
     try {
-      const response = await fetch(
-        "http://localhost:3000/api/v1/auth/forgot-password",
-        {
+      const response = await fetch(`${API_BASE}/forgot-password`, {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
@@ -62,9 +62,7 @@ function ForgotPassword() {
       return;
     }
     try {
-      const response = await fetch(
-        "http://localhost:3000/api/v1/auth/verify-otp",
-        {
+      const response = await fetch(`${API_BASE}/verify-otp`, {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
@@ -92,9 +90,7 @@ function ForgotPassword() {
       return;
     }
     try {
-      const response = await fetch(
-        "http://localhost:3000/api/v1/auth/reset-password",
-        {
+      const response = await fetch(`${API_BASE}/reset-password`, {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
@@ -119,9 +115,7 @@ function ForgotPassword() {
 
   const handleResendOTP = async () => {
     try {
-      const response = await fetch(
-        "http://localhost:3000/api/v1/auth/resend-otp",
-        {
+      const response = await fetch(`${API_BASE}/resend-otp`, {
           method: "POST",
           headers: {
             "Content-Type": "application/json",

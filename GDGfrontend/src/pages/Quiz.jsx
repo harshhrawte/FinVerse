@@ -15,7 +15,9 @@ const FinVerseQuiz = () => {
   useEffect(() => {
     const fetchQuiz = async () => {
       try {
-        const response = await fetch('http://localhost:5000/quiz');
+        const response = await fetch(
+          `${import.meta.env.VITE_CHATBOT_API_URL}/api/v1/quiz`
+        );
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -24,7 +26,7 @@ const FinVerseQuiz = () => {
         if (!data.questions || !Array.isArray(data.questions)) {
           throw new Error('Invalid quiz data format');
         }
-
+  
         setQuestions(data.questions);
         setQuizState(prev => ({
           ...prev,
@@ -39,7 +41,7 @@ const FinVerseQuiz = () => {
         }));
       }
     };
-
+  
     fetchQuiz();
   }, []);
 
@@ -79,15 +81,17 @@ const FinVerseQuiz = () => {
       completed: false,
       score: 0
     });
-
+  
     try {
-      const response = await fetch('http://localhost:3000/quiz');
+      const response = await fetch(
+        `${import.meta.env.VITE_CHATBOT_API_URL}/api/v1/quiz`
+      );
       const data = await response.json();
       
       if (!data.questions) {
         throw new Error('No questions in response');
       }
-
+  
       setQuestions(data.questions);
       setCurrentQuestion(0);
       setQuizState({

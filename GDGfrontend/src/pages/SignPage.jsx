@@ -100,9 +100,13 @@ const SignupPage = () => {
     }
   
     try {
-      const response = await axios.post('http://localhost:3000/api/v1/auth/signup', data, {
-        headers: { 'Content-Type': 'multipart/form-data' },
-      });
+      const response = await axios.post(
+        `${import.meta.env.VITE_CHATBOT_API_URL}/api/v1/auth/signup`,
+        data,
+        {
+          headers: { 'Content-Type': 'multipart/form-data' },
+        }
+      );
       console.log('Signup successful:', response.data);
       navigate(`/verify-email?email=${encodeURIComponent(formData.email.toLowerCase())}`);
     } catch (error) {

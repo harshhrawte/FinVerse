@@ -15,22 +15,22 @@ const Login = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     setIsLoading(true);
-
+  
     try {
       const response = await axios.post(
-        'http://localhost:3000/api/v1/auth/login',
+        `${import.meta.env.VITE_CHATBOT_API_URL}/api/v1/auth/login`,
         { email: email.toLowerCase(), password }
       );
       
       console.log('Login successful:', response.data);
       toast.success('Login successful!');
-
-      // Store token (e.g., in localStorage) and redirect
+  
+      // Store token and user data
       localStorage.setItem('token', response.data.token);
       localStorage.setItem('userId', response.data.userId);
-
+  
       setTimeout(() => {
-        navigate('/'); // Adjust to your protected route
+        navigate('/');
       }, 2000);
     } catch (error) {
       console.error('Login error:', error.response?.data);

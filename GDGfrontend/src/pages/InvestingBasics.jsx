@@ -72,7 +72,7 @@ const InvestingBasics = () => {
 
   useEffect(() => {
     axios
-      .get("http://localhost:3000/api/investing-basics")
+      .get(`${import.meta.env.VITE_CHATBOT_API_URL}/api/v1/investing-basics`)
       .then((res) => {
         if (Array.isArray(res.data.data)) {
           setTopics(res.data.data);

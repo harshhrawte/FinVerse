@@ -938,7 +938,7 @@
 
 import React, { useState, useEffect } from "react";
 import { useParams, useNavigate } from "react-router-dom";
-import { getProfile, updateProfile } from "../api/profileApi";
+import { getProfile, updateProfile } from "../api/Profileapi";
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
@@ -1043,7 +1043,7 @@ const FinVerseEditProfile = () => {
     try {
       setSaving(true);
       const response = await axios.put(
-        `http://localhost:3000/api/v1/profile/upload-profile-picture/${userId}`,
+        `${import.meta.env.VITE_CHATBOT_API_URL}/api/v1/profile/upload-profile-picture/${userId}`,
         formData,
         {
           headers: {

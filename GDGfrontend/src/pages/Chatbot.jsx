@@ -50,7 +50,7 @@ const Chatbot = () => {
   const handleClearHistory = async () => {
     if (window.confirm("Are you sure you want to clear the chat history?")) {
       try {
-        const apiUrl = import.meta.env.VITE_CHATBOT_API_URL || 'http://localhost:5000';
+        const apiUrl = `${import.meta.env.VITE_CHATBOT_API_URL}/api/v1`;
         await axios.post(`${apiUrl}/clear_history`);
         
         // Reset UI to initial state
@@ -88,7 +88,7 @@ const Chatbot = () => {
 
     try {
       // Use the API URL from your .env file (Vite requires prefix VITE_)
-      const apiUrl = import.meta.env.VITE_CHATBOT_API_URL || 'http://localhost:5000';
+      const apiUrl = `${import.meta.env.VITE_CHATBOT_API_URL}/api/v1`;
       const response = await axios.post(`${apiUrl}/chat`, { message: message });
       const botMessage = {
         id: messages.length + 2,
