@@ -20,6 +20,24 @@ require("dotenv").config();
 const app = express();
 const PORT = process.env.PORT || 4000;
 
+// CORS Configuration
+const corsOptions = {
+  origin: 'https://finverse-frontend.onrender.com',
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization'],
+  credentials: true
+};
+
+app.use(cors(corsOptions));
+app.options('*', cors(corsOptions)); // Handle preflight
+
+// Middleware
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
+// Routes
+app.use("/api/v1/auth", auth);
+
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
