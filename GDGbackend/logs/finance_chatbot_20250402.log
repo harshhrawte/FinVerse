@@ -1,0 +1,43 @@
+2025-04-02 15:10:31,760 [INFO] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-02 15:10:32,079 [WARNING]  * Debugger is active!
+2025-04-02 15:10:32,089 [INFO]  * Debugger PIN: 968-389-380
+2025-04-02 15:12:07,453 [INFO] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-02 15:12:07,786 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.41:5000
+2025-04-02 15:12:07,787 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-02 15:12:07,790 [INFO]  * Restarting with stat
+2025-04-02 15:12:12,576 [INFO] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-02 15:12:12,865 [WARNING]  * Debugger is active!
+2025-04-02 15:12:12,871 [INFO]  * Debugger PIN: 968-389-380
+2025-04-02 15:15:52,628 [INFO]  * Detected change in 'C:\\Users\\dethe\\.vscode\\FinanceChatbot\\GDG\\GDGbackend\\practice.py', reloading
+2025-04-02 15:15:55,290 [INFO]  * Restarting with stat
+2025-04-02 15:15:59,637 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-02 15:15:59,639 [INFO] Loaded existing chat history.
+2025-04-02 15:15:59,893 [INFO] Loaded existing Gemini retriever store.
+2025-04-02 15:17:19,495 [INFO]  * Restarting with stat
+2025-04-02 15:17:23,569 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-02 15:17:23,571 [INFO] Loaded existing chat history.
+2025-04-02 15:17:23,818 [INFO] Loaded existing Gemini retriever store.
+2025-04-02 15:17:24,128 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-02 15:18:31,549 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-02 15:18:31,551 [INFO] Loaded existing chat history.
+2025-04-02 15:18:31,787 [INFO] Loaded existing Gemini retriever store.
+2025-04-02 15:18:32,098 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-02 15:18:36,062 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-02 15:18:36,064 [INFO] Loaded existing chat history.
+2025-04-02 15:18:36,300 [INFO] Loaded existing Gemini retriever store.
+2025-04-02 15:18:36,597 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-02 15:19:07,347 [INFO] Received chat request: Hii I am Jayant Dethe...
+2025-04-02 15:19:07,358 [INFO] Detected intent: general for query: Hii I am Jayant Dethe...
+2025-04-02 15:19:07,362 [INFO] Processing query with intent 'general': Hii I am Jayant Dethe
+2025-04-02 15:19:09,660 [INFO] Generated response in 2.31s
+2025-04-02 15:19:46,158 [INFO] Received chat request: I want some gk realated to finance...
+2025-04-02 15:19:46,159 [INFO] Detected intent: debt for query: I want some gk realated to finance...
+2025-04-02 15:19:46,162 [INFO] Processing query with intent 'debt': I want some gk realated to finance
+2025-04-02 15:19:52,210 [INFO] Generated response in 6.05s
+2025-04-02 15:20:37,051 [INFO] Received chat request: I mean I want to know what is the current educatio...
+2025-04-02 15:20:37,054 [INFO] Detected intent: general for query: I mean I want to know what is the current educatio...
+2025-04-02 15:20:37,056 [INFO] Processing query with intent 'general': I mean I want to know what is the current education inflation
+2025-04-02 15:20:41,950 [INFO] Generated response in 4.90s

@@ -1,0 +1,43 @@
+2025-04-09 00:18:33,971 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-09 00:18:33,974 [INFO] Loaded existing chat history.
+2025-04-09 00:18:34,226 [INFO] Loaded existing Gemini retriever store.
+2025-04-09 00:18:34,499 [INFO] Starting Finance Chatbot API server on port 3000
+2025-04-09 00:18:59,403 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-09 00:18:59,424 [INFO] Loaded existing chat history.
+2025-04-09 00:18:59,667 [INFO] Loaded existing Gemini retriever store.
+2025-04-09 00:26:17,001 [INFO] Starting Finance Chatbot API server on port 3000
+2025-04-09 00:33:55,894 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-09 00:33:55,900 [INFO] Loaded existing chat history.
+2025-04-09 00:33:56,388 [INFO] Loaded existing Gemini retriever store.
+2025-04-09 00:33:57,579 [INFO] Detected intent: general for query: Hey...
+2025-04-09 00:33:57,581 [INFO] Processing query with intent 'general': Hey
+2025-04-09 00:34:00,648 [INFO] Generated response in 3.07s
+2025-04-09 00:40:44,516 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-09 00:40:44,520 [INFO] Loaded existing chat history.
+2025-04-09 00:40:45,018 [INFO] Loaded existing Gemini retriever store.
+2025-04-09 00:40:50,366 [INFO] Detected intent: general for query: Hey...
+2025-04-09 00:40:50,372 [INFO] Processing query with intent 'general': Hey
+2025-04-09 00:40:54,629 [INFO] Generated response in 4.27s
+2025-04-09 00:41:01,627 [INFO] Detected intent: general for query: My name is Jayant Dethe...
+2025-04-09 00:41:01,629 [INFO] Processing query with intent 'general': My name is Jayant Dethe
+2025-04-09 00:41:03,016 [INFO] Generated response in 1.39s
+2025-04-09 00:41:08,247 [INFO] Detected intent: general for query: What is my name?...
+2025-04-09 00:41:08,249 [INFO] Processing query with intent 'general': What is my name?
+2025-04-09 00:41:09,563 [INFO] Generated response in 1.32s
+2025-04-09 00:41:21,079 [INFO] Detected intent: calculator for query: What is current dollar to inr rate?...
+2025-04-09 00:41:21,079 [INFO] Performing web search for real-time information...
+2025-04-09 00:41:21,080 [INFO] Performing web search for: What is current dollar to inr rate?...
+2025-04-09 00:41:23,114 [INFO] Retrieved 5 search results
+2025-04-09 00:41:23,115 [INFO] Processing query with intent 'calculator': What is current dollar to inr rate?
+2025-04-09 00:41:24,491 [INFO] Generated response in 3.41s
+2025-04-09 10:48:08,895 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-09 10:48:08,901 [INFO] Loaded existing chat history.
+2025-04-09 10:48:09,295 [INFO] Loaded existing Gemini retriever store.
+2025-04-09 10:48:10,164 [INFO] Starting Enhanced Finance Chatbot with real-time data capability
+2025-04-09 10:48:10,165 [INFO] Starting Finance Chatbot API server on port 3000
+2025-04-09 10:48:55,943 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-09 10:48:55,948 [INFO] Loaded existing chat history.
+2025-04-09 10:48:56,289 [INFO] Loaded existing Gemini retriever store.
+2025-04-09 10:49:01,823 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-09 10:49:01,826 [INFO] Loaded existing chat history.
+2025-04-09 10:49:02,139 [INFO] Loaded existing Gemini retriever store.

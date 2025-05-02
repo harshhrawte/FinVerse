@@ -1,0 +1,52 @@
+2025-04-08 14:05:45,959 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-08 14:05:45,963 [INFO] Loaded existing chat history.
+2025-04-08 14:05:46,186 [INFO] Loaded existing Gemini retriever store.
+2025-04-08 14:05:49,948 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-08 14:05:49,949 [INFO] Loaded existing chat history.
+2025-04-08 14:05:50,187 [INFO] Loaded existing Gemini retriever store.
+2025-04-08 14:07:13,722 [INFO] Detected intent: general for query: How should I start investing?...
+2025-04-08 14:07:13,725 [INFO] Processing query with intent 'general': How should I start investing?
+2025-04-08 14:07:24,850 [INFO] Generated response in 11.13s
+2025-04-08 14:08:00,390 [INFO] Detected intent: general for query: What is current indian rupee to dollar?...
+2025-04-08 14:08:00,392 [INFO] Processing query with intent 'general': What is current indian rupee to dollar?
+2025-04-08 14:08:03,235 [INFO] Generated response in 2.84s
+2025-04-08 14:08:55,485 [INFO] Detected intent: general for query: 1$ is equal to how many ruppes...
+2025-04-08 14:08:55,489 [INFO] Processing query with intent 'general': 1$ is equal to how many ruppes
+2025-04-08 14:08:57,839 [INFO] Generated response in 2.35s
+2025-04-08 14:09:08,620 [INFO] Detected intent: general for query: what is bonds ...
+2025-04-08 14:09:08,623 [INFO] Processing query with intent 'general': what is bonds 
+2025-04-08 14:09:11,545 [INFO] Generated response in 2.92s
+2025-04-08 14:09:20,311 [INFO] Detected intent: investment_advice for query: what is stock...
+2025-04-08 14:09:20,312 [INFO] Processing query with intent 'investment_advice': what is stock
+2025-04-08 14:09:24,123 [INFO] Generated response in 3.81s
+2025-04-08 14:09:59,531 [INFO] Detected intent: general for query: value of tata steel share price...
+2025-04-08 14:09:59,534 [INFO] Processing query with intent 'general': value of tata steel share price
+2025-04-08 14:10:01,939 [INFO] Generated response in 2.41s
+2025-04-08 14:14:22,423 [INFO] Detected intent: general for query: what is share...
+2025-04-08 14:14:22,426 [INFO] Processing query with intent 'general': what is share
+2025-04-08 14:14:27,290 [INFO] Generated response in 4.87s
+2025-04-08 14:15:19,990 [INFO] Detected intent: investment_advice for query: in 2025 i want to inves 1 lakh ruppes so what is c...
+2025-04-08 14:15:19,992 [INFO] Processing query with intent 'investment_advice': in 2025 i want to inves 1 lakh ruppes so what is current market trend .should i invest now or not or in which month in 2025
+2025-04-08 14:15:24,418 [INFO] Generated response in 4.43s
+2025-04-08 19:58:15,789 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-08 19:58:15,794 [INFO] Loaded existing chat history.
+2025-04-08 19:58:16,060 [INFO] Loaded existing Gemini retriever store.
+2025-04-08 19:58:16,504 [INFO] Starting Finance Chatbot API server on port 3000
+2025-04-08 23:13:24,630 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-08 23:13:24,636 [INFO] Loaded existing chat history.
+2025-04-08 23:13:24,920 [INFO] Loaded existing Gemini retriever store.
+2025-04-08 23:14:47,595 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-08 23:14:47,598 [INFO] Loaded existing chat history.
+2025-04-08 23:14:47,795 [INFO] Loaded existing Gemini retriever store.
+2025-04-08 23:14:52,477 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-08 23:14:52,480 [INFO] Loaded existing chat history.
+2025-04-08 23:14:52,676 [INFO] Loaded existing Gemini retriever store.
+2025-04-08 23:15:37,711 [INFO] Detected intent: general for query: How should I start investing?...
+2025-04-08 23:15:37,720 [INFO] Processing query with intent 'general': How should I start investing?
+2025-04-08 23:15:46,508 [INFO] Generated response in 8.80s
+2025-04-08 23:16:12,093 [INFO] Detected intent: general for query: Where is Europe?...
+2025-04-08 23:16:12,102 [INFO] Processing query with intent 'general': Where is Europe?
+2025-04-08 23:16:14,150 [INFO] Generated response in 2.06s
+2025-04-08 23:16:59,346 [INFO] Detected intent: calculator for query: What is current dollar into indian rupee rate?...
+2025-04-08 23:17:03,693 [INFO] Processing query with intent 'calculator': What is current dollar into indian rupee rate?
+2025-04-08 23:17:06,480 [INFO] Generated response in 7.13s

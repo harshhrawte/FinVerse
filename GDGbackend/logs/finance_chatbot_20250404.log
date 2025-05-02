@@ -1,0 +1,116 @@
+2025-04-04 11:37:01,228 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 11:37:01,313 [INFO] Loaded existing chat history.
+2025-04-04 11:37:01,610 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 11:37:02,113 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-04 11:37:06,540 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 11:37:06,543 [INFO] Loaded existing chat history.
+2025-04-04 11:37:06,896 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 11:37:07,272 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-04 11:38:21,247 [INFO] Received chat request: How should I start investing?...
+2025-04-04 11:38:21,251 [INFO] Detected intent: general for query: How should I start investing?...
+2025-04-04 11:38:21,255 [INFO] Processing query with intent 'general': How should I start investing?
+2025-04-04 11:38:31,382 [INFO] Generated response in 10.13s
+2025-04-04 11:50:56,168 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 11:50:56,171 [INFO] Loaded existing chat history.
+2025-04-04 11:50:56,468 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 11:50:56,921 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-04 11:51:25,085 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 11:51:25,087 [INFO] Loaded existing chat history.
+2025-04-04 11:51:25,359 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 11:51:25,695 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-04 11:55:25,650 [ERROR] Error generating quiz: name 'generate_quiz' is not defined
+2025-04-04 11:55:52,560 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 11:55:52,562 [INFO] Loaded existing chat history.
+2025-04-04 11:55:52,806 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 11:55:53,112 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-04 11:55:57,450 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 11:55:57,452 [INFO] Loaded existing chat history.
+2025-04-04 11:55:57,708 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 11:55:58,018 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-04 11:56:30,714 [ERROR] Error generating quiz: name 'generate_quiz' is not defined
+2025-04-04 11:56:30,777 [ERROR] Error generating quiz: name 'generate_quiz' is not defined
+2025-04-04 11:56:37,914 [ERROR] Error generating quiz: name 'generate_quiz' is not defined
+2025-04-04 12:05:32,183 [ERROR] Error generating quiz: name 'generate_quiz' is not defined
+2025-04-04 12:05:32,245 [ERROR] Error generating quiz: name 'generate_quiz' is not defined
+2025-04-04 12:07:47,672 [ERROR] Error generating quiz: name 'generate_quiz' is not defined
+2025-04-04 12:07:48,953 [ERROR] Error generating quiz: name 'generate_quiz' is not defined
+2025-04-04 12:07:49,618 [ERROR] Error generating quiz: name 'generate_quiz' is not defined
+2025-04-04 12:07:49,942 [ERROR] Error generating quiz: name 'generate_quiz' is not defined
+2025-04-04 12:07:50,550 [ERROR] Error generating quiz: name 'generate_quiz' is not defined
+2025-04-04 14:33:00,019 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 14:33:00,022 [INFO] Loaded existing chat history.
+2025-04-04 14:33:00,259 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 14:33:00,555 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-04 14:33:03,524 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 14:33:03,526 [INFO] Loaded existing chat history.
+2025-04-04 14:33:03,740 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 14:33:03,985 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-04 14:33:38,916 [ERROR] Error generating dynamic quiz questions: name 'llm' is not defined
+2025-04-04 14:33:39,180 [ERROR] Error generating dynamic quiz questions: name 'llm' is not defined
+2025-04-04 14:35:31,680 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 14:35:31,682 [INFO] Loaded existing chat history.
+2025-04-04 14:35:31,911 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 14:35:32,145 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-04 14:35:55,284 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 14:35:55,287 [INFO] Loaded existing chat history.
+2025-04-04 14:35:55,515 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 14:35:55,771 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-04 14:37:01,973 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 14:37:01,975 [INFO] Loaded existing chat history.
+2025-04-04 14:37:02,215 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 14:37:02,489 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-04 14:37:02,744 [ERROR] Error generating dynamic quiz questions: name 'llm' is not defined
+2025-04-04 14:37:02,748 [ERROR] Error generating dynamic quiz questions: name 'llm' is not defined
+2025-04-04 14:37:30,649 [ERROR] Error generating dynamic quiz questions: name 'llm' is not defined
+2025-04-04 14:37:30,896 [ERROR] Error generating dynamic quiz questions: name 'llm' is not defined
+2025-04-04 14:40:59,500 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 14:40:59,503 [INFO] Loaded existing chat history.
+2025-04-04 14:40:59,800 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 14:41:00,063 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-04 14:41:36,802 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 14:41:36,803 [INFO] Loaded existing chat history.
+2025-04-04 14:41:37,022 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 14:41:37,247 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-04 14:43:03,600 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 14:43:03,602 [INFO] Loaded existing chat history.
+2025-04-04 14:43:03,837 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 14:43:04,097 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-04 14:43:15,203 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 14:43:15,206 [INFO] Loaded existing chat history.
+2025-04-04 14:43:15,517 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 14:43:15,796 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-04 14:43:26,723 [ERROR] Error generating dynamic quiz questions: 'ChatGoogleGenerativeAI' object has no attribute 'chat'
+2025-04-04 14:43:26,968 [ERROR] Error generating dynamic quiz questions: 'ChatGoogleGenerativeAI' object has no attribute 'chat'
+2025-04-04 14:43:32,951 [ERROR] Error generating dynamic quiz questions: 'ChatGoogleGenerativeAI' object has no attribute 'chat'
+2025-04-04 14:43:33,198 [ERROR] Error generating dynamic quiz questions: 'ChatGoogleGenerativeAI' object has no attribute 'chat'
+2025-04-04 14:43:33,766 [ERROR] Error generating dynamic quiz questions: 'ChatGoogleGenerativeAI' object has no attribute 'chat'
+2025-04-04 14:43:34,071 [ERROR] Error generating dynamic quiz questions: 'ChatGoogleGenerativeAI' object has no attribute 'chat'
+2025-04-04 14:43:34,258 [ERROR] Error generating dynamic quiz questions: 'ChatGoogleGenerativeAI' object has no attribute 'chat'
+2025-04-04 14:43:34,383 [ERROR] Error generating dynamic quiz questions: 'ChatGoogleGenerativeAI' object has no attribute 'chat'
+2025-04-04 14:43:34,460 [ERROR] Error generating dynamic quiz questions: 'ChatGoogleGenerativeAI' object has no attribute 'chat'
+2025-04-04 14:45:04,515 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 14:45:04,517 [INFO] Loaded existing chat history.
+2025-04-04 14:45:04,774 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 14:45:05,018 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-04 14:45:15,825 [ERROR] Error generating dynamic quiz questions: 'ChatGoogleGenerativeAI' object has no attribute 'chat'
+2025-04-04 14:45:16,076 [ERROR] Error generating dynamic quiz questions: 'ChatGoogleGenerativeAI' object has no attribute 'chat'
+2025-04-04 14:57:25,734 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 14:57:25,738 [INFO] Loaded existing chat history.
+2025-04-04 14:57:26,120 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 16:09:41,998 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 16:09:42,004 [INFO] Loaded existing chat history.
+2025-04-04 16:09:42,365 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 16:09:47,663 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 16:09:47,665 [INFO] Loaded existing chat history.
+2025-04-04 16:09:47,956 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 16:12:05,430 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 16:12:05,433 [INFO] Loaded existing chat history.
+2025-04-04 16:12:05,821 [INFO] Loaded existing Gemini retriever store.
+2025-04-04 16:12:06,257 [INFO] Starting Finance Chatbot API server on port 5000
+2025-04-04 16:12:11,003 [INFO] Received chat request: Hii I am Jayant Dethe...
+2025-04-04 16:12:11,012 [INFO] Detected intent: general for query: Hii I am Jayant Dethe...
+2025-04-04 16:12:11,014 [INFO] Processing query with intent 'general': Hii I am Jayant Dethe
+2025-04-04 16:12:13,279 [INFO] Generated response in 2.27s
+2025-04-04 16:12:41,688 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-04 16:12:41,689 [INFO] Loaded existing chat history.
+2025-04-04 16:12:42,031 [INFO] Loaded existing Gemini retriever store.

@@ -1,0 +1,54 @@
+2025-04-05 00:11:30,225 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-05 00:11:30,230 [INFO] Loaded existing chat history.
+2025-04-05 00:11:30,476 [INFO] Loaded existing Gemini retriever store.
+2025-04-05 00:11:35,272 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-05 00:11:35,274 [INFO] Loaded existing chat history.
+2025-04-05 00:11:35,581 [INFO] Loaded existing Gemini retriever store.
+2025-04-05 00:11:47,441 [INFO] Detected intent: general for query: How should I start investing?...
+2025-04-05 00:11:47,444 [INFO] Processing query with intent 'general': How should I start investing?
+2025-04-05 00:11:55,548 [INFO] Generated response in 8.11s
+2025-04-05 11:43:07,667 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-05 11:43:07,670 [INFO] Loaded existing chat history.
+2025-04-05 11:43:07,907 [INFO] Loaded existing Gemini retriever store.
+2025-04-05 11:43:11,774 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-05 11:43:11,776 [INFO] Loaded existing chat history.
+2025-04-05 11:43:12,057 [INFO] Loaded existing Gemini retriever store.
+2025-04-05 11:45:20,468 [INFO] Detected intent: general for query: Hii I am Jayant Dethe...
+2025-04-05 11:45:20,473 [INFO] Processing query with intent 'general': Hii I am Jayant Dethe
+2025-04-05 11:45:25,595 [INFO] Generated response in 5.13s
+2025-04-05 11:45:30,927 [INFO] Detected intent: general for query: What is my name?...
+2025-04-05 11:45:30,931 [INFO] Processing query with intent 'general': What is my name?
+2025-04-05 11:45:32,723 [INFO] Generated response in 1.80s
+2025-04-05 11:45:48,814 [INFO] Detected intent: general for query: What is diversified investing?...
+2025-04-05 11:45:48,817 [INFO] Processing query with intent 'general': What is diversified investing?
+2025-04-05 11:45:51,382 [INFO] Generated response in 2.57s
+2025-04-05 11:46:07,116 [INFO] Detected intent: general for query: Isnt it risky?...
+2025-04-05 11:46:07,121 [INFO] Processing query with intent 'general': Isnt it risky?
+2025-04-05 11:46:11,314 [INFO] Generated response in 4.20s
+2025-04-05 18:55:11,531 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-05 18:55:11,534 [INFO] Loaded existing chat history.
+2025-04-05 18:55:11,872 [INFO] Loaded existing Gemini retriever store.
+2025-04-05 18:55:17,694 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-05 18:55:17,697 [INFO] Loaded existing chat history.
+2025-04-05 18:55:18,192 [INFO] Loaded existing Gemini retriever store.
+2025-04-05 22:20:54,130 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-05 22:20:54,136 [INFO] Loaded existing chat history.
+2025-04-05 22:20:54,498 [INFO] Loaded existing Gemini retriever store.
+2025-04-05 22:21:00,772 [INFO] Found existing 'datatext.txt'. Skipping PDF extraction.
+2025-04-05 22:21:00,774 [INFO] Loaded existing chat history.
+2025-04-05 22:21:01,137 [INFO] Loaded existing Gemini retriever store.
+2025-04-05 22:30:11,661 [INFO] Detected intent: general for query: Hey, I am Jayant Dethe...
+2025-04-05 22:30:11,666 [INFO] Processing query with intent 'general': Hey, I am Jayant Dethe
+2025-04-05 22:30:14,988 [INFO] Generated response in 3.34s
+2025-04-05 22:30:21,385 [INFO] Detected intent: general for query: What is my name?...
+2025-04-05 22:30:21,386 [INFO] Processing query with intent 'general': What is my name?
+2025-04-05 22:30:22,823 [INFO] Generated response in 1.44s
+2025-04-05 22:30:38,588 [INFO] Detected intent: general for query: How can I earn 1 lakhs from stocks?...
+2025-04-05 22:30:38,592 [INFO] Processing query with intent 'general': How can I earn 1 lakhs from stocks?
+2025-04-05 22:30:42,070 [INFO] Generated response in 3.48s
+2025-04-05 22:31:00,045 [INFO] Detected intent: general for query: Is it too much risky?...
+2025-04-05 22:31:00,046 [INFO] Processing query with intent 'general': Is it too much risky?
+2025-04-05 22:31:04,542 [INFO] Generated response in 4.50s
+2025-04-05 23:58:33,480 [INFO] Detected intent: general for query: cdascs...
+2025-04-05 23:58:33,605 [INFO] Processing query with intent 'general': cdascs
+2025-04-05 23:58:38,403 [INFO] Generated response in 4.93s
