@@ -30,20 +30,17 @@ FinVerse is a full-stack GenAI-powered personal finance platform that delivers r
    ```bash
    git clone https://github.com/harshhrawte/FinVerse.git
    cd FinVerse
-cd GDGBackend
-python -m venv env                # (optional but recommended)
-source env/bin/activate           # On Linux/macOS
-.\env\Scripts\activate            # On Windows PowerShell
-pip install -r requirements.txt
-python app.py    
+   cd GDGBackend
+   python -m venv env                # (optional but recommended)
+   source env/bin/activate           # On Linux/macOS
+   .\env\Scripts\activate            # On Windows PowerShell
+   pip install -r requirements.txt
+   python app.py    
 
-cd GDGFrontend
-npm install
-npm start
+   cd GDGFrontend
+   npm install
+   npm start
 
-Open your browser and visit:
+   Open your browser and visit:
 
-arduino
-Copy
-Edit
-http://localhost:3000
+   http://localhost:3000
