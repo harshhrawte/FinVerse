@@ -137,9 +137,8 @@ GOOGLE_CLIENT_SECRET=your_google_client_secret
 GOOGLE_CALLBACK_URL=http://localhost:5000/auth/google/callback
 
 # GenAI Configuration
-OPENAI_API_KEY=your_openai_api_key
-# OR
-ANTHROPIC_API_KEY=your_anthropic_api_key
+GEMINI_API_KEY=your_gemini_api_key
+
 
 # Frontend URL
 CLIENT_URL=http://localhost:3000
